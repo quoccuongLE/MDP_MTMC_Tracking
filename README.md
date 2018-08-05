@@ -9,7 +9,7 @@ Developed by Quoc C.LE at LIFAT, University of Tours, France
 ### Usage
 
 1. Run complie.m (openCV required)
-2. Run MTMC_test.m (the code is tested on the 2 sequences: PETS09 S2L1 and EPFL Terrace1)on
+2. Run MTMC_test.m (the code is tested on the 2 sequences: PETS09_S2L1 and EPFL Terrace1)
 ### Citation
 
 Will be updated soon.
