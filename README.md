@@ -12,18 +12,18 @@ Developed by Quoc C.LE at LIFAT, University of Tours, France
 2. Run MTMC_test.m (the code is tested on the 2 sequences: PETS09_S2L1 and EPFL Terrace1)
 ### Citation
 
-  @inproceedings{le:hal-01880374,
-    TITLE = {{Online Multiple View Tracking: Targets Association Across Cameras}},
-    AUTHOR = {Le, Quoc Cuong and Conte, Donatello and Hidane, Moncef},
-    URL = {https://hal.archives-ouvertes.fr/hal-01880374},
-    BOOKTITLE = {{6th Workshop on Activity Monitoring by Multiple Distributed Sensing (AMMDS 2018)}},
-    ADDRESS = {Newcastle, United Kingdom},
-    YEAR = {2018},
-    MONTH = Sep,
-    PDF = {https://hal.archives-ouvertes.fr/hal-01880374/file/2018AMMDS.pdf},
-    HAL_ID = {hal-01880374},
-    HAL_VERSION = {v1},
-  }
+    @inproceedings{le:hal-01880374,
+      TITLE = {{Online Multiple View Tracking: Targets Association Across Cameras}},
+      AUTHOR = {Le, Quoc Cuong and Conte, Donatello and Hidane, Moncef},
+      URL = {https://hal.archives-ouvertes.fr/hal-01880374},
+      BOOKTITLE = {{6th Workshop on Activity Monitoring by Multiple Distributed Sensing (AMMDS 2018)}},
+      ADDRESS = {Newcastle, United Kingdom},
+      YEAR = {2018},
+      MONTH = Sep,
+      PDF = {https://hal.archives-ouvertes.fr/hal-01880374/file/2018AMMDS.pdf},
+      HAL_ID = {hal-01880374},
+      HAL_VERSION = {v1},
+    }
 
 ### Dataset and Detection
 
